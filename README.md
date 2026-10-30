@@ -1,6 +1,6 @@
 # Latifah’s Birthday World
 
-A private, bilingual birthday website made for Latifah by her big brother Mounir.
+A bilingual birthday website made for Latifah by her big brother Mounir.
 
 ## Theme
 
@@ -32,8 +32,10 @@ Open http://localhost:8000.
 - `dist/app.js`: bilingual content and interactions
 - `dist/assets/`: family photos
 
-Deploy `dist/` as the static website directory on a host of your choice. The `gh-pages` branch contains a ready-to-publish copy at its root. GitHub Pages is not yet enabled because the current account requires a public repository or paid plan for this private project. The existing hosted website remains available.
+Live website: https://hypedmo0n.github.io/latifa-birthday-world/
+
+GitHub Pages deploys the `gh-pages` branch from its root. The `main` branch keeps the source in `dist/`. When updating the website, publish the matching static files to `gh-pages`.
 
 ## Privacy
 
-Keep this repository private: it contains personal family photos. Only the selected language is stored in the visitor’s browser; game progress stays in memory. The app contains no analytics or keystroke tracking.
+This repository and website are public with the owner's approval and contain personal family photos. Only the selected language is stored in the visitor’s browser; game progress stays in memory. The app contains no analytics or keystroke tracking.

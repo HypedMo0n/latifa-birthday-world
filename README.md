@@ -1,12 +1,16 @@
-# Latifa’s Birthday World
+# Latifah’s Birthday World
 
-A private, bilingual birthday website made for Latifa by her big brother Mounir.
+A private, bilingual birthday website made for Latifah by her big brother Mounir.
+
+## Theme
+
+Hello Kitty and Stitch, with pink bows, sky-blue accents, and original family photos. Character artwork sources are documented in `dist/assets/ATTRIBUTION.md`.
 
 ## Features
 
 - English/French language switch
 - 17 family photos with a gallery and full-size viewer
-- Photo memory game, four-question quiz, and star-catching game
+- Hello Kitty photo memory game, six-question character quiz, and Stitch star-catching game
 - A short personal letter
 - A candle-free cake, personal du’a, and confetti finale
 - Optional synthesized music and reduced-motion support
@@ -28,7 +32,7 @@ Open http://localhost:8000.
 - `dist/app.js`: bilingual content and interactions
 - `dist/assets/`: family photos
 
-Deploy `dist/` as the static website directory on a host of your choice. This repository does not enable GitHub Pages or change access to the existing hosted website.
+Deploy `dist/` as the static website directory on a host of your choice. The `gh-pages` branch contains a ready-to-publish copy at its root. GitHub Pages is not yet enabled because the current account requires a public repository or paid plan for this private project. The existing hosted website remains available.
 
 ## Privacy
 
